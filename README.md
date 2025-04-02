@@ -25,15 +25,16 @@
 ## ⚙️ Установка и запуск
 
 1. Клонировать репозиторий:
-git clone [repository-url]
-cd auth-cache-project
+git clone https://github.com/batman565/praktika6front/
+cd praktika6front
 Установить зависимости:
 
-
 npm install
+
 Запустить сервер:
 
 node server.js
+
 Открыть в браузере:
 
 http://localhost:3000
